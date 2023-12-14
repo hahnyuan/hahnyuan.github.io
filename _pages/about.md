@@ -14,9 +14,10 @@ In 2021, I joined Houmo AI, a startup specializing in AI accelerator focusing on
 
 我于2017年获得北京大学药学院学士学位，于2022年获得北京大学计算机学院博士学位。现在主要在做高效AI相关的研究工作，研究方向为神经网络的量化及推理加速、深度学习的软硬件协同优化。
 2021年加入存算一体芯片创业公司后摩智能，参与了第一代和第二代数字存算AI加速器设计，负责神经网络压缩量化算法和量化工具的开发，负责芯片量化方案的设计及专用硬件加速单元的算法设计，并推进了多项研究成果落地。
-另外，喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
+喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
 ## Publications
+- Yuan Z, Shang Y, et al. ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models. arXiv 2023. (co-first)
 - Shang Y, Yuan Z, et al. PB-LLM: Partially Binarized Large Language Models. arXiv 2023. (co-first)
 - Shang Y, Yuan Z, et al. MIM4DD: Mutual Information Maximization for Dataset Distillation, NeurIPS, 2023.
 - Yuan Z, Lin N, Liu J, et al. RPTQ: Reorder-based Post-training Quantization for Large Language Models. arXiv preprint arXiv:2304.01089, 2023.
