@@ -18,7 +18,7 @@ In 2021, I joined Houmo AI, a startup specializing in AI accelerator focusing on
 
 ## Publications
 - Yuan Z, Shang Y, et al. ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models. arXiv 2023. (co-first)
-- Shang Y, Yuan Z, et al. PB-LLM: Partially Binarized Large Language Models. arXiv 2023. (co-first)
+- Shang Y, Yuan Z, et al. PB-LLM: Partially Binarized Large Language Models. ICLR 2024. (co-first)
 - Shang Y, Yuan Z, et al. MIM4DD: Mutual Information Maximization for Dataset Distillation, NeurIPS, 2023.
 - Yuan Z, Lin N, Liu J, et al. RPTQ: Reorder-based Post-training Quantization for Large Language Models. arXiv preprint arXiv:2304.01089, 2023.
 - Niu L, Liu J, Yuan Z, et al. Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric. arXiv preprint arXiv:2304.09785, 2023.
