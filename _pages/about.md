@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Zhihang Yuan. I received my Bachelor's degree from Peking University in 2017 and my Ph.D. degree in Computer Science from Peking University in 2022. Currently, I am mainly engaged in Efficient AI, focusing on the quantization and inference acceleration of neural networks, as well as the collaborative optimization of software and hardware for deep learning.
+Hello! I'm Zhihang Yuan. I received my Bachelor's degree from Peking University in 2017 and my Ph.D. degree in Computer Science from Peking University in 2022. Currently, I am mainly engaged in Efficient AI, focusing on the model compression and inference acceleration of neural networks, as well as the collaborative optimization of software and hardware for deep learning.
 
-In 2021, I joined Houmo AI, a startup specializing in AI accelerator focusing on Computing in Memory (CIM) technique. During my time there, I participated in the design of the first and second generation AI accelerators, where I was responsible for designing quantization schemes and specialized hardware acceleration units. I also led the development of quantization algorithms and tools.
+In 2021, I joined Houmo AI, a startup specializing in AI accelerator focusing on Computing in Memory (CIM) technique. During my time there, I participated in the design of the AI accelerators. I also led the development of quantization algorithms and tools.
+In 2024, I continued my career as an innovative algorithm researcher at the AI startup company called Infini-AI.
 
 我于2017年获得北京大学药学院学士学位，于2022年获得北京大学计算机学院博士学位。现在主要在做高效AI相关的研究工作，研究方向为神经网络的量化及推理加速、深度学习的软硬件协同优化。
 2021年加入存算一体芯片创业公司后摩智能，参与了第一代和第二代数字存算AI加速器设计，负责神经网络压缩量化算法和量化工具的开发，负责芯片量化方案的设计及专用硬件加速单元的算法设计，并推进了多项研究成果落地。
+2024年加入AI创业公司无问芯穹担任创新算法研究员。
 喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
 ## Publications
+- Yuan Z, Shang Y, Zhou Y, et al. LLM Inference Unveiled: Survey and Roofline Model Insights[J]. arXiv preprint arXiv:2402.16363, 2024.
+- Yue Y, Yuan Z, Duanmu H, et al. Wkvquant: Quantizing weight and key/value cache for large language models gains more[J]. arXiv preprint arXiv:2402.12065, 2024. (co-first)
+- Wang H, Shang Y, Yuan Z, et al. QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning[J]. arXiv preprint arXiv:2402.03666, 2024.
+- Yang D, He N, Hu X, et al. Post-training quantization for re-parameterization via coarse & fine weight splitting[J]. Journal of Systems Architecture, 2024, 147: 103065.
 - Yuan Z, Shang Y, et al. ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models. arXiv 2023. (co-first)
 - Shang Y, Yuan Z, et al. PB-LLM: Partially Binarized Large Language Models. ICLR 2024. (co-first)
 - Shang Y, Yuan Z, et al. MIM4DD: Mutual Information Maximization for Dataset Distillation, NeurIPS, 2023.
