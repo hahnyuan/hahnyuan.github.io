@@ -8,21 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Zhihang Yuan. I received my Bachelor's degree from Peking University in 2017 and my Ph.D. degree in Computer Science from Peking University in 2022 under the guidance of Professor Guangyu Sun. Currently, I am mainly engaged in Efficient AI, focusing on the model compression and inference acceleration of neural networks, as well as the collaborative optimization of software and hardware for deep learning.
+Hello! I'm Zhihang Yuan. 
+I obtained my bachelor's degree from Peking University in 2017, and my PhD degree from the School of Computer Science at Peking University in 2022, under the supervision of Professor Guangyu Sun.
+Currently, I am conducting research related to Efficient AI at the [NICS-effalg group](https://nics-effalg.com/) at Tsinghua University and at Infinigence-AI. My research focuses on the design of efficient neural networks architecture, neural network compression, and the co-optimization of software and hardware.
 
-In 2021, I joined Houmo AI, a startup specializing in AI accelerator focusing on Computing in Memory (CIM) technique. During my time there, I participated in the design of the AI accelerators. I also led the development of quantization algorithms and tools.
-In 2024, I continued my career as an innovative algorithm researcher at Infini-AI.
-
-我于2017年获得北京大学学士学位，于2022年获得北京大学计算机学院博士学位，博士导师为孙广宇长聘副教授。我专注于高效AI相关的研究工作，研究方向为神经网络的量化及推理加速、深度学习的软硬件协同优化。
-2021年加入后摩智能担任资深算法工程师，参与了数字存算AI加速器设计。
-2024年加入无问芯穹担任创新算法研究员。
+我于2017年获得北京大学学士学位，于2022年获得北京大学计算机学院博士学位，博士导师为孙广宇老师。
+目前我在[清华NICS-effalg组](https://nics-effalg.com/)和无问芯穹从事高效人工智能（Efficient AI）相关的研究工作，研究方向为高效神经网络设计、神经网络的压缩、深度学习的软硬件协同优化。
 喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
 ## Publications
-- Yuan Z, Shang Y, Zhou Y, et al. LLM Inference Unveiled: Survey and Roofline Model Insights[J]. arXiv preprint arXiv:2402.16363, 2024.
-- Yue Y, Yuan Z, Duanmu H, et al. Wkvquant: Quantizing weight and key/value cache for large language models gains more[J]. arXiv preprint arXiv:2402.12065, 2024. (co-first)
-- Wang H, Shang Y, Yuan Z, et al. QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning[J]. arXiv preprint arXiv:2402.03666, 2024.
-- Yang D, He N, Hu X, et al. Post-training quantization for re-parameterization via coarse & fine weight splitting[J]. Journal of Systems Architecture, 2024, 147: 103065.
+Please visit my [Google Scholar page](https://scholar.google.com/citations?user=iipYHLoAAAAJ) for more detailed information.
+
+- Yuan Z, Lu P, Zhang H, et al. DiTFastAttn: Attention Compression for Diffusion Transformer Models. arXiv e-prints, 2024: arXiv: 2406.08552.
+- Zhou S, Yuan Z, Yang D, et al. PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram. arXiv preprint arXiv:2405.18734, 2024.
+- Hu X, Chen Y, Yang D, et al. I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models. arXiv preprint arXiv:2405.17849, 2024.
+- Duanmu H, Yuan Z, Li X, et al. SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models. arXiv preprint arXiv:2405.06219, 2024.
+- Han Y, Liu Z, Yuan Z, et al. Latency-aware unified dynamic networks for efficient image recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
+- Yuan Z, Shang Y, Zhou Y, et al. LLM Inference Unveiled: Survey and Roofline Model Insights. arXiv preprint arXiv:2402.16363, 2024.
+- Yue Y, Yuan Z, Duanmu H, et al. Wkvquant: Quantizing weight and key/value cache for large language models gains more. arXiv preprint arXiv:2402.12065, 2024. (co-first)
+- Wang H, Shang Y, Yuan Z, et al. QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning. arXiv preprint arXiv:2402.03666, 2024.
+- Yang D, He N, Hu X, et al. Post-training quantization for re-parameterization via coarse & fine weight splitting. Journal of Systems Architecture, 2024, 147: 103065.
 - Yuan Z, Shang Y, et al. ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models. arXiv 2023. (co-first)
 - Shang Y, Yuan Z, et al. PB-LLM: Partially Binarized Large Language Models. ICLR 2024. (co-first)
 - Shang Y, Yuan Z, et al. MIM4DD: Mutual Information Maximization for Dataset Distillation, NeurIPS, 2023.
