@@ -10,10 +10,10 @@ redirect_from:
 
 Hello! I'm Zhihang Yuan. 
 I obtained my bachelor's degree from Peking University in 2017, and my PhD degree from the School of Computer Science at Peking University in 2022, under the supervision of Professor Guangyu Sun.
-Currently, I am conducting research related to Efficient AI at the [NICS-effalg group](https://nics-effalg.com/) at Tsinghua University and at Infinigence-AI. My research focuses on the design of efficient neural networks architecture, neural network compression, and the co-optimization of software and hardware.
+Currently, I am conducting research related to Efficient AI at the [NICS-effalg team](https://nics-effalg.com/) at Tsinghua University and at Infinigence-AI. My research focuses on the design of efficient neural networks architecture, neural network compression, and the co-optimization of software and hardware.
 
 我于2017年获得北京大学学士学位，于2022年获得北京大学计算机学院博士学位，博士导师为孙广宇老师。
-目前我在[清华NICS-effalg组](https://nics-effalg.com/)和无问芯穹从事高效人工智能（Efficient AI）相关的研究工作，研究方向为高效神经网络设计、神经网络的压缩、深度学习的软硬件协同优化。
+目前我在清华[NICS-effalg组](https://nics-effalg.com/)和无问芯穹从事高效人工智能（Efficient AI）相关的研究工作，研究方向为高效神经网络设计、神经网络的压缩、深度学习的软硬件协同优化。
 喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
 ## Publications
