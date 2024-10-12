@@ -19,17 +19,17 @@ Currently, I am conducting research related to Efficient AI at the [NICS-effalg 
 ## Publications
 Please visit my [Google Scholar page](https://scholar.google.com/citations?user=iipYHLoAAAAJ) for more detailed information.
 
-- Yuan Z, Lu P, Zhang H, et al. DiTFastAttn: Attention Compression for Diffusion Transformer Models. arXiv e-prints, 2024: arXiv: 2406.08552.
-- Zhou S, Yuan Z, Yang D, et al. PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram. arXiv preprint arXiv:2405.18734, 2024.
+- Yuan Z*, Lu P*, Zhang H*, et al. DiTFastAttn: Attention Compression for Diffusion Transformer Models. NeurIPS 2024.
+- Zhou S*, Yuan Z*, Yang D, et al. PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram. arXiv preprint arXiv:2405.18734, 2024.
 - Hu X, Chen Y, Yang D, et al. I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models. arXiv preprint arXiv:2405.17849, 2024.
-- Duanmu H, Yuan Z, Li X, et al. SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models. arXiv preprint arXiv:2405.06219, 2024.
+- Duanmu H*, Yuan Z*, Li X, et al. SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models. COLM 2024 (Oral).
 - Han Y, Liu Z, Yuan Z, et al. Latency-aware unified dynamic networks for efficient image recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
-- Yuan Z, Shang Y, Zhou Y, et al. LLM Inference Unveiled: Survey and Roofline Model Insights. arXiv preprint arXiv:2402.16363, 2024.
-- Yue Y, Yuan Z, Duanmu H, et al. Wkvquant: Quantizing weight and key/value cache for large language models gains more. arXiv preprint arXiv:2402.12065, 2024. (co-first)
+- Yuan Z*, Shang Y*, Zhou Y*, et al. LLM Inference Unveiled: Survey and Roofline Model Insights. arXiv preprint arXiv:2402.16363, 2024.
+- Yue Y*, Yuan Z*, Duanmu H, et al. Wkvquant: Quantizing weight and key/value cache for large language models gains more. arXiv preprint arXiv:2402.12065, 2024. (co-first)
 - Wang H, Shang Y, Yuan Z, et al. QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning. arXiv preprint arXiv:2402.03666, 2024.
 - Yang D, He N, Hu X, et al. Post-training quantization for re-parameterization via coarse & fine weight splitting. Journal of Systems Architecture, 2024, 147: 103065.
-- Yuan Z, Shang Y, et al. ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models. arXiv 2023. (co-first)
-- Shang Y, Yuan Z, et al. PB-LLM: Partially Binarized Large Language Models. ICLR 2024. (co-first)
+- Yuan Z*, Shang Y*, et al. ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models. arXiv 2023. (co-first)
+- Yuan Z, et al. PB-LLM: Partially Binarized Large Language Models. ICLR 2024.
 - Shang Y, Yuan Z, et al. MIM4DD: Mutual Information Maximization for Dataset Distillation, NeurIPS, 2023.
 - Yuan Z, Lin N, Liu J, et al. RPTQ: Reorder-based Post-training Quantization for Large Language Models. arXiv preprint arXiv:2304.01089, 2023.
 - Niu L, Liu J, Yuan Z, et al. Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric. arXiv preprint arXiv:2304.09785, 2023.
