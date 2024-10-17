@@ -23,7 +23,7 @@ Please visit my [Google Scholar page](https://scholar.google.com/citations?user=
 - Zhou S, Yuan Z, Yang D, et al. PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram. arXiv preprint arXiv:2405.18734, 2024 (co-first).
 - Hu X, Chen Y, Yang D, et al. I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models. arXiv preprint arXiv:2405.17849, 2024.
 - Duanmu H, Yuan Z, Li X, et al. SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models. COLM 2024 (Oral) (co-first).
-- Han Y, Liu Z, Yuan Z, et al. Latency-aware unified dynamic networks for efficient image recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024 (co-first).
+- Han Y, Liu Z, Yuan Z, et al. Latency-aware unified dynamic networks for efficient image recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (co-first).
 - Yuan Z, Shang Y, Zhou Y, et al. LLM Inference Unveiled: Survey and Roofline Model Insights. arXiv preprint arXiv:2402.16363, 2024 (co-first).
 - Yue Y, Yuan Z, Duanmu H, et al. Wkvquant: Quantizing weight and key/value cache for large language models gains more. arXiv preprint arXiv:2402.12065, 2024. (co-first)
 - Wang H, Shang Y, Yuan Z, et al. QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning. arXiv preprint arXiv:2402.03666, 2024.
