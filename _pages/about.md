@@ -37,7 +37,7 @@ Please visit [Google Scholar page](https://scholar.google.com/citations?user=iip
 1. Zhou S\*, **Yuan Z**\*, Yang D, et al. PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram, CVPR 2025.
 2. Wang K, Shi M, Zhou Y, et al. A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training, CVPR 2025.
 3. **Yuan Z**\*, Wang S\*, Shang Y, et al. DLFR-VAE: Dynamic Latent Frame Rate VAE for Efficient Video Generation, ICML 2025 submission.
-4. Hu X\*, Cheng Y\*, Yang D\*..., **Yuan Z**+, et al. OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting, ICLR 2025.
+4. Hu X\*, Cheng Y\*, Yang D\*..., **Yuan Z**+. OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting, ICLR 2025.
 5. Xu Z\*, Yue Y\*, Hu X, et al. MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods, ICLR 2025.
 6. **Yuan Z**\*, Shang Y\*, Zhang H, et al. E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling. arXiv preprint arXiv:2412.14170, 2024.
 7. **Yuan Z**\*, Lu P\*, Zhang H\*, et al. DiTFastAttn: Attention Compression for Diffusion Transformer Models, NeurIPS 2024.
