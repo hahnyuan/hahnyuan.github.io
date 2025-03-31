@@ -16,13 +16,14 @@ Currently, I am conducting research related to Efficient AI at the [NICS-effalg 
 目前他在清华[NICS-effalg组](https://nics-effalg.com/)和无问芯穹从事高效人工智能（Efficient AI）相关的研究工作，研究方向为高效神经网络设计、神经网络的压缩、深度学习的软硬件协同优化。
 喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
-袁之航的研究方向为高效人工智能（Efficient AI）。在多个AI顶会和顶刊上发表十余篇论文（3 ICLR, 3 NeurIPS, 3 CVPR, 2 ECCV, 1 TPAMI），在计算机系统架构方面发表数篇论文（1 TCAD, 1 HPCA, 1 TC, 1 DATE, 1 ASP-DAC, 1 SCIS），根据 Google Scholar，他的文章总被引用次数超过 1300 次。他在神经网络的压缩方面做了很多创新性的工作，例如ASVD是最早对LLM进行低秩分解压缩的工作、PTQ4ViT是最早对Vision Transformer量化压缩工作之一、PTQ4DM是最早对图像生成模型量化压缩的工作、S2DNAS是最早的自动化动态神经网络设计的工作（ECCV Oral）。他的研究主要在以下几个方面：
+袁之航的研究方向为高效人工智能（Efficient AI）。在多个AI顶会和顶刊上发表十余篇论文（3 ICLR, 3 NeurIPS, 3 CVPR, 2 ECCV, 1 TPAMI, 1 COLM, 1 ICRA），在计算机系统架构方面发表数篇论文（1 TCAD, 1 HPCA, 1 TC, 1 DATE, 1 ASP-DAC, 1 SCIS），根据 Google Scholar，他的文章总被引用次数超过 1400 次。他在神经网络的压缩方面做了很多创新性的工作，例如ASVD是最早对LLM进行低秩分解压缩的工作、PTQ4ViT是最早对Vision Transformer量化压缩工作之一、PTQ4DM是最早对图像生成模型量化压缩的工作、S2DNAS是最早的自动化动态神经网络设计的工作（ECCV Oral）。他的研究主要在以下几个方面：
 
 -	高效大语言模型（LLM） 
 	-	模型的量化压缩、模型的低秩分解压缩、稀疏注意力
-	-	多模态模型的压缩、端侧LLM的设计和训练、具身智能VLA模型的压缩
+	-	端侧LLM的设计和训练、Sparse/Linear Attention混合模型
 -	高效视觉生成模型（图像生成、视频生成） 
-	-	模型的量化压缩、稀疏注意力、高效生成模型架构设计和训练
+	-	动态神经网络、模型的量化压缩、稀疏注意力
+ 	-	视觉生成AR/Diffusion混合架构模型
 -	高效计算机视觉模型
 	-	视觉模型的量化与剪枝、动态神经网络、网络架构搜索、脉冲神经网络
 -	软件-硬件协同优化设计
