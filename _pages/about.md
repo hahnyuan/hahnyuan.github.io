@@ -35,6 +35,7 @@ Please visit [Google Scholar page](https://scholar.google.com/citations?user=iip
 
 \* indicates equal contribution, + indicates communication author
 
+1. **Yuan Z**\*, Xie R\*, Shang Y, et al. VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate, arXiv preprint arXiv:2504.12259, 2025.
 1. Zhou S\*, **Yuan Z**\*, Yang D, et al. PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram, CVPR 2025.
 2. Wang K, Shi M, Zhou Y, et al. A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training, CVPR 2025.
 3. **Yuan Z**\*, Wang S\*, Shang Y, et al. DLFR-VAE: Dynamic Latent Frame Rate VAE for Efficient Video Generation, ICML 2025 submission.
