@@ -10,25 +10,13 @@ redirect_from:
 
 Hello! I'm Zhihang Yuan. 
 I obtained my bachelor's degree from Peking University in 2017, and my PhD degree from the School of Computer Science at Peking University in 2022, under the supervision of Professor Guangyu Sun.
-Currently, I am conducting research related to Efficient AI at Bytedance Seed. My research focuses on the design of efficient neural networks architecture, neural network compression, and the co-optimization of software and hardware.
+Currently, I am conducting research related to Efficient AI at Bytedance Seed. My research focuses on the design of efficient neural networks architecture, neural network compression, and agent.
 
 袁之航于2017年获得北京大学学士学位，于2022年获得北京大学计算机学院博士学位，博士导师为孙广宇老师。
 目前他在字节跳动Seed团队从事高效人工智能（Efficient AI）的工作，研究方向为高效神经网络设计、神经网络的压缩、Agent等。
 喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
-袁之航的研究方向为高效人工智能（Efficient AI），在ICLR/NeurIPS/ICML/CVPR/ECCV/TPAMI/TCAD/HPCA/ISCA/ISSCC等会议和期刊上发表多篇研究论文。根据 Google Scholar，他的文章总被引用次数超过 1500 次。他在神经网络的压缩方面做了很多创新性的工作，例如ASVD是最早对LLM进行低秩分解压缩的工作、PTQ4ViT是最早对Vision Transformer量化压缩工作之一、PTQ4DM是最早对图像生成模型量化压缩的工作、S2DNAS是最早的自动化动态神经网络设计的工作（ECCV Oral）。他的研究主要在以下几个方面：
-
--	高效大语言模型（LLM） 
-	-	模型的量化压缩、模型的低秩分解压缩、稀疏注意力
-	-	端侧LLM的设计和训练、Sparse/Linear Attention混合模型
--	高效视觉生成模型（图像生成、视频生成） 
-	-	动态神经网络、模型的量化压缩、稀疏注意力
- 	-	视觉生成AR/Diffusion混合架构模型
--	高效计算机视觉模型
-	-	视觉模型的量化与剪枝、动态神经网络、网络架构搜索、脉冲神经网络
--	软件-硬件协同优化设计
-	-	AI加速器量化系统设计、大模型推理芯片软硬件协同设计
-
+袁之航的研究方向为高效人工智能（Efficient AI），在ICLR/NeurIPS/ICML/CVPR/ECCV/TPAMI/TCAD/HPCA/ISCA/ISSCC等会议和期刊上发表多篇研究论文。根据 Google Scholar，他的文章总被引用次数超过 1700 次。他在神经网络的压缩方面做了很多创新性的工作，例如ASVD是最早对LLM进行低秩分解压缩的工作、PTQ4ViT是最早对Vision Transformer量化压缩工作之一、PTQ4DM是最早对图像生成模型量化压缩的工作、S2DNAS是最早的自动化动态神经网络设计的工作（ECCV Oral）。他的研究主要在以下几个方面：
 
 ## Publications
 Please visit [Google Scholar page](https://scholar.google.com/citations?user=iipYHLoAAAAJ) for more detailed information.
