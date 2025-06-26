@@ -23,10 +23,13 @@ Please visit [Google Scholar page](https://scholar.google.com/citations?user=iip
 
 \* indicates equal contribution, + indicates communication author
 
-1. **Yuan Z**\*, Xie R\*, Shang Y, et al. VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate, arXiv preprint arXiv:2504.12259, 2025.
+1. Zhang H\*, Su R\*, **Yuan Z**\+, et al. DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers, ICCV 2025.
+1. **Yuan Z**\*, Xie R\*, Shang Y, et al. VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate, arXiv preprint ICCV 2025.
+2. Hu X, Chen Z, Yang D, et al. MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance[J]. ICML 2025.
+3. Duanmu H, Li X, **Yuan Z**, et al. MxMoE: Mixed-precision Quantization for MoE with Accuracy and Performance Co-Design[J]. ICML 2025.
 1. Zhou S\*, **Yuan Z**\*, Yang D, et al. PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram, CVPR 2025.
 2. Wang K, Shi M, Zhou Y, et al. A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training, CVPR 2025.
-3. **Yuan Z**\*, Wang S\*, Shang Y, et al. DLFR-VAE: Dynamic Latent Frame Rate VAE for Efficient Video Generation, ICML 2025 submission.
+3. **Yuan Z**\*, Wang S\*, Shang Y, et al. DLFR-VAE: Dynamic Latent Frame Rate VAE for Efficient Video Generation, arxiv preprint, 2025.
 4. Hu X\*, Cheng Y\*, Yang D\*..., **Yuan Z**+. OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting, ICLR 2025.
 5. Xu Z\*, Yue Y\*, Hu X, et al. MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods, ICLR 2025.
 6. **Yuan Z**\*, Shang Y\*, Zhang H, et al. E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling. arXiv preprint arXiv:2412.14170, 2024.
