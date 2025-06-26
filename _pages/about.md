@@ -16,7 +16,7 @@ Currently, I am conducting research related to Efficient AI at Bytedance Seed. M
 目前他在字节跳动Seed团队从事高效人工智能（Efficient AI）的工作，研究方向为高效神经网络设计、神经网络的压缩、Agent等。
 喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
-袁之航的研究方向为高效人工智能（Efficient AI），在ICLR/NeurIPS/ICML/CVPR/ECCV/TPAMI/TCAD/HPCA/ISCA/ISSCC等会议和期刊上发表多篇研究论文。根据 Google Scholar，他的文章总被引用次数超过 1700 次。他在神经网络的压缩方面做了很多创新性的工作，例如ASVD是最早对LLM进行低秩分解压缩的工作、PTQ4ViT是最早对Vision Transformer量化压缩工作之一、PTQ4DM是最早对图像生成模型量化压缩的工作、S2DNAS是最早的自动化动态神经网络设计的工作（ECCV Oral）。他的研究主要在以下几个方面：
+袁之航的研究方向为高效人工智能（Efficient AI），在ICLR/NeurIPS/ICML/CVPR/ICCV/ECCV/TPAMI/TCAD/HPCA/ISCA/ISSCC等会议和期刊上发表多篇研究论文。根据 Google Scholar，他的文章总被引用次数超过 1700 次。他在神经网络的压缩方面做了很多创新性的工作，例如ASVD是最早对LLM进行低秩分解压缩的工作、PTQ4ViT是最早对Vision Transformer量化压缩工作之一、PTQ4DM是最早对图像生成模型量化压缩的工作、S2DNAS是最早的自动化动态神经网络设计的工作（ECCV Oral）。他的研究主要在以下几个方面：
 
 ## Publications
 Please visit [Google Scholar page](https://scholar.google.com/citations?user=iipYHLoAAAAJ) for more detailed information.
