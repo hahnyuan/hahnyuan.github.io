@@ -24,7 +24,7 @@ Please visit [Google Scholar page](https://scholar.google.com/citations?user=iip
 \* indicates equal contribution, + indicates communication author
 
 1. Zhang H\*, Su R\*, **Yuan Z**\+, et al. DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers, ICCV 2025.
-1. **Yuan Z**\*, Xie R\*, Shang Y, et al. VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate, arXiv preprint ICCV 2025.
+1. **Yuan Z**\*, Xie R\*, Shang Y, et al. VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate, ICCV 2025.
 2. Hu X, Chen Z, Yang D, et al. MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance[J]. ICML 2025.
 3. Duanmu H, Li X, **Yuan Z**, et al. MxMoE: Mixed-precision Quantization for MoE with Accuracy and Performance Co-Design[J]. ICML 2025.
 1. Zhou S\*, **Yuan Z**\*, Yang D, et al. PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram, CVPR 2025.
