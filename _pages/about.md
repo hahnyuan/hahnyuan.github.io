@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Zhihang Yuan. 
 I obtained my bachelor's degree from Peking University in 2017, and my PhD degree from the School of Computer Science at Peking University in 2022, under the supervision of Professor Guangyu Sun.
 Currently, I am conducting research related to Efficient AI at Bytedance Seed. My research focuses on the design of efficient neural networks architecture and neural network compression algorithm.
 
