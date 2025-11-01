@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 I obtained my bachelor's degree from Peking University in 2017, and my PhD degree from the School of Computer Science at Peking University in 2022, under the supervision of Professor Guangyu Sun.
-Currently, I am conducting research related to Efficient AI at Bytedance Seed. My research focuses on the design of efficient neural networks architecture and neural network compression algorithm.
+Currently, I am conducting research related to Efficient AI at Bytedance Seed. My research focuses on the design of efficient neural networks architecture, reinforcement learning on LLM, and neural network compression algorithm.
 
 袁之航于2017年获得北京大学学士学位，于2022年获得北京大学计算机学院博士学位，博士导师为孙广宇老师。
-目前他在字节跳动Seed团队从事高效人工智能（Efficient AI）的工作，方向为神经网络的压缩算法、高效神经网络设计等。
+目前他在字节跳动Seed团队从事高效人工智能（Efficient AI）的工作，方向为神经网络的压缩算法、大模型强化学习、高效神经网络设计等。
 喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
 ## Publications
