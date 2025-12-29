@@ -32,7 +32,6 @@ Please visit [Google Scholar page](https://scholar.google.com/citations?user=iip
 3. **Yuan Z**\*, Wang S\*, Shang Y, et al. DLFR-VAE: Dynamic Latent Frame Rate VAE for Efficient Video Generation, ACM MM, 2025.
 4. Hu X\*, Cheng Y\*, Yang D\*..., **Yuan Z**+. OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting, ICLR 2025.
 5. Xu Z\*, Yue Y\*, Hu X, et al. MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods, ICLR 2025.
-6. Yang S, Han Z, Yuan Z\*, GSE-MN4: Group-Shared Exponents Integer Quantization for MobileNetV4, ICIC 2025.
 7. **Yuan Z**\*, Shang Y\*, Zhang H, et al. E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling. arXiv preprint arXiv:2412.14170, 2024.
 8. **Yuan Z**\*, Lu P\*, Zhang H\*, et al. DiTFastAttn: Attention Compression for Diffusion Transformer Models, NeurIPS 2024.
 9. Duanmu H\*, **Yuan Z**\*, Li X, et al. SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models. COLM 2024 (Oral).
