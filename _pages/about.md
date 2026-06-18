@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Senior Engineer at ByteDance Seed, where I lead a multimodal large language model efficiency team. I earned my bachelor’s degree from Peking University in 2017, followed by my PhD from the School of Computer Science at Peking University in 2022.
-To date, I have developed various products powered by full-duplex LLMs — including real-time video and audio chat — alongside music generation, audio generation, and sound recognition models.
+To date, I have developed various products powered by multimodel LLMs — including full-duplex real-time video and audio chat — alongside music generation, audio generation, and sound recognition models.
 
 My research interests center on neural network compression algorithms (diffusion distillation, quantization, pruning, speculative decoding and so on) and reinforcement learning for generative models. Per Google Scholar, my published work has received over 3,500 citations.
 
