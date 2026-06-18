@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my bachelor's degree from Peking University in 2017, and my PhD degree from the School of Computer Science at Peking University in 2022, under the supervision of Professor Guangyu Sun.
-Currently, I am conducting development related to multi-modality LLM at Bytedance Seed. My research focuses on the design of efficient neural networks architecture, reinforcement learning on LLM, and neural network compression algorithm.
+I am a Senior Engineer at ByteDance Seed, where I lead the audio multimodal large language model efficiency team. I earned my bachelor’s degree from Peking University in 2017, followed by my PhD from the School of Computer Science at Peking University in 2022.
+To date, I have developed various products powered by full-duplex LLMs — including real-time video and audio chat — alongside music generation, audio generation, and sound recognition models.
+
+My research interests center on neural network compression algorithms (diffusion distillation, quantization, pruning, speculative decoding and so on) and reinforcement learning for generative models. Per Google Scholar, my published work has received over 3,500 citations.
+
 
 袁之航于2017年获得北京大学学士学位，于2022年获得北京大学计算机学院博士学位，博士导师为孙广宇老师。
 袁之航的研究领域为高效人工智能（Efficient AI），在ICLR/NeurIPS/ICML/CVPR/ICCV/ECCV/TPAMI/TCAD/HPCA等会议和期刊上发表多篇研究论文。根据 Google Scholar，他的文章总被引用次数超过 3500 次。
