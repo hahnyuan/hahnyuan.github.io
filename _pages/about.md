@@ -24,7 +24,7 @@ Please visit [Google Scholar page](https://scholar.google.com/citations?user=iip
 
 \* indicates equal contribution, + indicates communication author
 
-1. Wang Z, **Yuan Z**\*, et al. OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models. ICML (spotlight)
+1. Wang Z, **Yuan Z**\*, et al. OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models. ICML 2026 (spotlight)
 1. Li A\*, Wang Y\*, **Yuan Z**\*, et al. LANPO: Bootstrapping Language and Numerical Feedback for Reinforcement Learning in LLMs[J]. arXiv preprint, 2025.
 1. Guo Y\*, Wang W\*, **Yuan Z**\*, et al. SplitMeanFlow: Interval Splitting Consistency in Few-Step Generative Modeling[J]. arXiv preprint, 2025.
 1. Zhang H\*, Su R\*, **Yuan Z**\+, et al. DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers, ICCV 2025.
