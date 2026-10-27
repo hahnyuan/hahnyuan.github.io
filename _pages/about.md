@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a member of ByteDance Seed, where I lead a multimodal large language model efficiency team. I earned my bachelor’s degree from Peking University in 2017, followed by my PhD from the School of Computer Science at Peking University in 2022.
-To date, I have developed various products powered by multimodal LLMs — including full-duplex real-time video and audio chat — alongside music generation, audio/video generation, and sound recognition models.
+I earned my bachelor’s degree from Peking University in 2017, followed by my PhD from the School of Computer Science at Peking University in 2022.
+I was a member of ByteDance Seed, where I lead a multimodal large language model efficiency team. I have developed various products powered by multimodal LLMs — including full-duplex real-time video and audio chat — alongside music generation, audio/video generation, and sound recognition models.
 
 My research interests center on neural network compression algorithms (diffusion distillation, quantization, pruning, speculative decoding, sparse attention), software-hardware codesign, reinforcement learning for generative models. Per Google Scholar, my published work has received over 4,000 citations.
 
 
 袁之航于2017年获得北京大学学士学位，于2022年获得北京大学计算机学院博士学位，博士导师为孙广宇老师。
 袁之航的研究领域为高效人工智能（Efficient AI），在ICLR/NeurIPS/ICML/CVPR/ICCV/ECCV/TPAMI/TCAD/HPCA等会议和期刊上发表多篇研究论文。根据 Google Scholar，他的文章总被引用次数超过 4000 次。
-目前他在字节跳动Seed团队从事多模态大模型的工作，方向为神经网络的压缩算法、大模型强化学习、高效神经网络设计等。
+目前他在做高效多模态大模型的工作，方向为神经网络的压缩算法、大模型强化学习、高效神经网络设计等。
 喜欢走走，曾参加过北京大学自行车协会2014年暑期远征和北京大学山鹰社2022年英吉沙科考。
 
 ## Publications
@@ -24,6 +24,7 @@ Please visit [Google Scholar page](https://scholar.google.com/citations?user=iip
 
 \* indicates equal contribution, + indicates communication author
 
+1. Su R\*, Chen P\*, Geng H\*, et al. 1Step-WAM: Your World Action Model but Faster using 1-Step Action Generation. arXiv preprint, 2026.
 1. Wang Z, **Yuan Z**, et al. OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models. ICML 2026 (spotlight).
 1. Li A\*, Wang Y\*, **Yuan Z**\*, et al. LANPO: Bootstrapping Language and Numerical Feedback for Reinforcement Learning in LLMs[J]. arXiv preprint, 2025.
 1. Guo Y\*, Wang W\*, **Yuan Z**\*, et al. SplitMeanFlow: Interval Splitting Consistency in Few-Step Generative Modeling[J]. arXiv preprint, 2025.
